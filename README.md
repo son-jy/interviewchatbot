@@ -2,7 +2,7 @@
 - 기간 : 2026.06.08 ~ 2026.06.26
 - 인원 : 5명
 - 역할 : 
-- 기술 : `Python` `Gemma 2 9b` `LangChain` `LangGraph` `FastAPI` `TTS`,`FFmpeg` `HTML/CSS`
+- 기술 : `Python` `Gemma 2 9b` `LangChain` `LangGraph` `TTS` `Streamlit` `Git`
 - 설명 : 지원자의 이력서 맞춤형 질문과 실시간 피드백을 제공하는 대화형 면접 연습 서비스
 
 
